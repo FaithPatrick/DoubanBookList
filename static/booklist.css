@@ -1,0 +1,10 @@
+.booklist  .section h4{  padding: 3px 0 3px 15px;border-left: 5px solid #ddd;margin: 10px 0;font-weight:bold;}
+.booklist .section{width:100%;margin:10px auto 0 auto;overflow:hidden;}
+.booklist .section ul{width:100%;}
+.booklist .section ul li{float:left;margin-right:6px;margin-bottom:10px;display:inline;width:98px;height:151px;overflow:hidden;position:relative;}
+.booklist .section ul li .photo{width:98px;height:151px;overflow:hidden;}
+.booklist .section .rsp{width:98px;height:151px;overflow:hidden;position: absolute;background:#000;top:0px;left:0px;}
+.booklist .section .text{position:absolute;width:98px;height:151px;left:-300px;top:0px;overflow:hidden;}
+.booklist .section .text h3{width:98px;margin-top:49px;height:50px;line-height:20px;text-align:center;color:#FFFFFF;font-size:14px;}
+.booklist .section .text a{text-decoration:none}
+.copyright{float:right;font-size:14px;color:#828282}
