@@ -13,3 +13,7 @@ Typecho 豆瓣个人书单展示插件
 
 部分主题下，书单JS效果无法正常显示，或者影响主题本身动效。(大多为jQuery冲突)
 
+### 预览
+
+![https://raw.githubusercontent.com/Patrick-95/Douban-BookList/master/screenshot.png](https://raw.githubusercontent.com/Patrick-95/Douban-BookList/master/screenshot.png)
+
